@@ -44,7 +44,7 @@ Kalkulator-Konversi-Suhu
 1. Unduh atau clone repositori ini ke mesin lokal Anda.
 2. Buka file `index.html` di browser untuk mulai menggunakan kalkulator konversi suhu.
 
-## Link GitHub Pages : https://revou-fundamental-course.github.io/30-sept-24-yuzhuruuu/
+## Link GitHub Pages : https://yuzhuruuu.github.io/Projek-Tugas-Besar/
 
 ## Penulis
 
