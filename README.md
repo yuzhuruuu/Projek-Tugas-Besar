@@ -1,6 +1,6 @@
 # Kalkulator Konversi Suhu
 
-Kalkulator Konversi Suhu ini memungkinkan pengguna untuk mengonversi suhu dari derajat Celcius (°C) ke Fahrenheit (°F) dan sebaliknya. Proyek ini dibuat dengan HTML, CSS, dan JavaScript.
+Kalkulator Konversi Suhu ini memungkinkan pengguna untuk mengonversi suhu dari derajat Celcius (°C) ke Fahrenheit (°F). Proyek ini dibuat dengan HTML, CSS, dan JavaScript.
 
 ## Fitur
 
