@@ -5,7 +5,6 @@ Kalkulator Konversi Suhu ini memungkinkan pengguna untuk mengonversi suhu dari d
 ## Fitur
 
 - Konversi suhu dari Celcius ke Fahrenheit.
-- Konversi suhu dari Fahrenheit kembali ke Celcius.
 - Menampilkan cara kalkulasi untuk konversi yang dilakukan.
 - Antarmuka pengguna yang sederhana dan responsif.
 
